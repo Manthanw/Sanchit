@@ -1,0 +1,4 @@
+function last()
+{
+	alert("BOOLEAN")
+}
